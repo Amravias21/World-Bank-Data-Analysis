@@ -50,5 +50,10 @@ The animated graph demonstrates the changes in life expectancy, fertility rate, 
 - Datasets are sourced from the World Bank.
 - Special thanks to the Mentor [Rushikesh Konapure] for support through out this project.
 
+## License
+This dataset is provided under the [MIT License](LICENSE), allowing for unrestricted use, modification, and distribution.
+
+
+
 ## Author
 SAI VARMA PALOJI
